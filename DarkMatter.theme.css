@@ -19,3 +19,7 @@
     --accent: 37, 172, 232;
     --accent-alt: 29, 101, 134;
 }
+
+ul[data-list-id='guildsnav'] [class^="pill-"], ul[data-list-id='guildsnav'] [class^="pill-"]>div {
+  height:48px !important;
+}
